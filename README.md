@@ -7,6 +7,6 @@ Install Apache, MySQL and PHP easily
 Be sure to be in **root**, then run the following commands :
 ```
 wget https://raw.githubusercontent.com/F2VILLE/lamp_install/main/lamp_install.sh
-chmod +X lamp_install.sh
+chmod +x lamp_install.sh
 ./lamp_install.sh
 ```
